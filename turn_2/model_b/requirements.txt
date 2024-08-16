@@ -1,0 +1,4 @@
+pandas
+ndjson
+pg8000
+chardet
